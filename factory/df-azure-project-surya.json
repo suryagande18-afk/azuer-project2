@@ -1,0 +1,9 @@
+{
+	"name": "df-azure-project-surya",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97828f66-365d-43c3-9840-5e25028d18be",
+		"tenantId": "7bd08b0b-3395-4dc1-94bb-d0b2e56a497f"
+	}
+}
